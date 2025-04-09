@@ -153,3 +153,54 @@ div.ejercicio8 p {
   text-align: center;
   font-size: 30px;
 }
+
+/* Sombra en cajas 3 */
+
+div.ejercicio9 {
+  background-color: rgb(206, 215, 239);
+  width: 600px;
+  height: 300px;
+  margin: auto;
+
+  box-shadow: 8px 8px 15px 5px rgb(173, 170, 170);
+}
+
+div.ejercicio9 p {
+  padding: 50px 20px;
+  text-align: center;
+  font-size: 30px;
+}
+
+/* Sombra en cajas 4 */
+
+div.ejercicio10 {
+  background-color: rgb(206, 215, 239);
+  width: 600px;
+  height: 300px;
+  margin: auto;
+
+  box-shadow: -8px -8px 15px 5px rgb(173, 170, 170);
+}
+
+div.ejercicio10 p {
+  padding: 50px 20px;
+  text-align: center;
+  font-size: 30px;
+}
+
+/* Sombra en cajas 5 */
+
+div.ejercicio11 {
+  background-color: rgb(206, 215, 239);
+  width: 600px;
+  height: 300px;
+  margin: auto;
+
+  box-shadow: 30px 20px 0px 0px rgb(88, 86, 86);
+}
+
+div.ejercicio11 p {
+  padding: 50px 20px;
+  text-align: center;
+  font-size: 30px;
+}
